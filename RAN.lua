@@ -9656,7 +9656,7 @@ print("\27[34m"..[[
 >> The Bot is Running
 >> Bot source > RaN
 >>Source channel > @KKKBK
->>Source developer > @@ooouo
+>>Source developer > @ooouo
  
 ]].."\27[m")
 local list = database:smembers(bot_id..'RAN:UsersBot')  
